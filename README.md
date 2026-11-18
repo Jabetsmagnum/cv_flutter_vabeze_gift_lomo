@@ -101,7 +101,7 @@ lib/
 
 1. **Cloner le dépôt :**
    ```bash
-   git clone https://github.com/gjabets/cv_flutter_vabeze_gift_lomo.git
+   git clone https://github.com/Jabetsmagnum/cv_flutter_vabeze_gift_lomo.git
    cd cv_flutter_vabeze_gift_lomo
    ```
 
@@ -123,5 +123,5 @@ lib/
 
 **Yabeze Gift Lom**
 * **Email** : [gjabets@gmail.com](mailto:gjabets@gmail.com)
-* **GitHub** : [@gjabets](https://github.com/gjabets)
+* **GitHub** : [@Jabetsmagnum](https://github.com/Jabetsmagnum)
 * **LinkedIn** : [Gift Yabeze](https://www.linkedin.com/in/gift-yabeze)

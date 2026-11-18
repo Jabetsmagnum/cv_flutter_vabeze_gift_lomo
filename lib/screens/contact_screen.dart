@@ -8,7 +8,7 @@ class ContactScreen extends StatelessWidget {
   static const String _email = 'gjabets@gmail.com';
   static const String _phone = '0824460383';
   static const String _linkedinUrl = 'https://www.linkedin.com/in/gift-yabeze';
-  static const String _githubUrl = 'https://github.com/gjabets';
+  static const String _githubUrl = 'https://github.com/Jabetsmagnum';
 
   Future<void> _launchExternalUrl(BuildContext context, String urlString) async {
     final uri = Uri.parse(urlString);
@@ -156,7 +156,7 @@ class ContactScreen extends StatelessWidget {
           _buildContactCard(
             context,
             title: 'GitHub',
-            value: 'github.com/gjabets',
+            value: 'github.com/Jabetsmagnum',
             actionLabel: 'Explorer les dépôts',
             icon: Icons.code_rounded,
             color: const Color(0xFF24292E),
