@@ -1,4 +1,4 @@
-# 📱 Mon CV & Portfolio Mobile - Flutter
+#  Mon CV & Portfolio Mobile - Flutter
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.50.0-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-3.14.0-0175C2?logo=dart&logoColor=white)](https://dart.dev)
@@ -8,7 +8,7 @@ Application mobile développée avec le framework **Flutter** et **Material 3**.
 
 ---
 
-## 📸 Aperçu de l'Application
+##  Aperçu de l'Application
 
 ### Authentification & Navigation
 | Page de Connexion | Menu Latéral (Drawer) |
@@ -27,15 +27,15 @@ Application mobile développée avec le framework **Flutter** et **Material 3**.
 
 ---
 
-## ✨ Fonctionnalités principales
+##  Fonctionnalités principales
 
-### 1. 🔐 Authentification (`LoginPage`)
+### 1.  Authentification (`LoginPage`)
 * Écran d'accueil avec formulaire de connexion sécurisé.
 * Masquage et basculement de la visibilité du mot de passe.
 * Validation dynamique des champs.
 * Redirection avec retour visuel (`SnackBar`) et déconnexion accessible à tout moment.
 
-### 2. 📄 CV & Parcours complet (`CvPage`)
+### 2.  CV & Parcours complet (`CvPage`)
 * **Identité** : Photo de profil, nom complet (**YABEZE GIFT LOM**), statut (**ETUDIANTS**).
 * **Formation** : Licence en Réseau, Système et Télécommunication.
 * **Expériences & Projets** :
@@ -45,25 +45,25 @@ Application mobile développée avec le framework **Flutter** et **Material 3**.
 * **Langues** : Français (courant & professionnel) et Lingala (langue maternelle).
 * **Centres d'intérêt** : Jeux vidéo, Animes & Mangas, Lecture technique.
 
-### 3. 👨‍👩‍👧‍👦 Espace Famille (`FamilyPage`)
+### 3.  Espace Famille (`FamilyPage`)
 * Présentation des membres de la famille sous forme de cartes élégantes.
 * Basculement fluide entre la vue en **Liste** (`ListView`) et la vue en **Grille** (`GridView`).
 * Consultation des détails de chaque membre (lien de parenté, profession, bio) via une feuille modale (`ModalBottomSheet`).
 
-### 4. 📞 Coordonnées Interactives (`ContactPage`)
+### 4.  Coordonnées Interactives (`ContactPage`)
 * Intégration de `url_launcher` pour une prise de contact directe :
   * **E-mail** (`gjabets@gmail.com`) ➔ déclenche le client de messagerie.
   * **Téléphone** (`0824460383`) ➔ lance l'application d'appel téléphonique.
   * **LinkedIn** & **GitHub** ➔ redirection directe vers les profils web.
 * Boutons de copie rapide dans le presse-papier pour chaque coordonnée.
 
-### 5. 🧭 Navigation Intuitive
+### 5.  Navigation Intuitive
 * **NavigationBar (Material 3)** pour une transition rapide entre les sections.
 * **Drawer latéral** personnalisé avec les informations de l'utilisateur et bouton de déconnexion avec confirmation.
 
 ---
 
-## 🛠️ Stack Technique
+##  Stack Technique
 
 * **Framework** : [Flutter](https://flutter.dev) (v3.50+)
 * **Langage** : [Dart](https://dart.dev) (v3.14+)
@@ -74,7 +74,7 @@ Application mobile développée avec le framework **Flutter** et **Material 3**.
 
 ---
 
-## 📂 Structure du Projet
+##  Structure du Projet
 
 ```text
 lib/
@@ -91,7 +91,7 @@ lib/
 
 ---
 
-## 🚀 Installation & Lancement
+##  Installation & Lancement
 
 ### Prérequis
 * [Flutter SDK](https://docs.flutter.dev/get-started/install) installé et configuré.
