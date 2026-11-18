@@ -2,10 +2,28 @@
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.50.0-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-3.14.0-0175C2?logo=dart&logoColor=white)](https://dart.dev)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Web-4CAF50.svg)](#)
 
 Application mobile développée avec le framework **Flutter** et **Material 3**. Elle présente mon profil professionnel complet, mon parcours universitaire, mes projets récents, ma famille ainsi que mes coordonnées interactives.
+
+---
+
+## 📸 Aperçu de l'Application
+
+### Authentification & Navigation
+| Page de Connexion | Menu Latéral (Drawer) |
+| :---: | :---: |
+| <img src="capture/pageconnection.png" width="280" alt="Page de Connexion"/> | <img src="capture/pagedrawer.png" width="280" alt="Menu Drawer"/> |
+
+### Accueil & CV Complet
+| Profil & Formation | Expériences & Projets | Langues & Loisirs |
+| :---: | :---: | :---: |
+| <img src="capture/pageacceuil1.png" width="260" alt="Profil & Formation"/> | <img src="capture/pageacceuil2.png" width="260" alt="Expériences & Projets"/> | <img src="capture/pageacceuil3.png" width="260" alt="Langues & Loisirs"/> |
+
+### Espace Famille & Coordonnées
+| Espace Famille | Contact (Appel & E-mail) | Contact (Réseaux & Localisation) |
+| :---: | :---: | :---: |
+| <img src="capture/pagefamille.png" width="260" alt="Page Famille"/> | <img src="capture/pagecontact1.png" width="260" alt="Contact - Direct"/> | <img src="capture/pagecontact2.png" width="260" alt="Contact - Réseaux"/> |
 
 ---
 
@@ -15,7 +33,7 @@ Application mobile développée avec le framework **Flutter** et **Material 3**.
 * Écran d'accueil avec formulaire de connexion sécurisé.
 * Masquage et basculement de la visibilité du mot de passe.
 * Validation dynamique des champs.
-* Redirection avec retour visuel (`SnackBar`) et possibilité de déconnexion à tout moment.
+* Redirection avec retour visuel (`SnackBar`) et déconnexion accessible à tout moment.
 
 ### 2. 📄 CV & Parcours complet (`CvPage`)
 * **Identité** : Photo de profil, nom complet (**YABEZE GIFT LOM**), statut (**ETUDIANTS**).
@@ -107,9 +125,3 @@ lib/
 * **Email** : [gjabets@gmail.com](mailto:gjabets@gmail.com)
 * **GitHub** : [@gjabets](https://github.com/gjabets)
 * **LinkedIn** : [Gift Yabeze](https://www.linkedin.com/in/gift-yabeze)
-
----
-
-## 📄 Licence
-
-Ce projet est sous licence MIT - consultez le fichier [LICENSE](LICENSE) pour plus de détails.
